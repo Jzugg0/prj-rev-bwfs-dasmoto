@@ -1,0 +1,19 @@
+html{
+  font-family: cursive;
+  text-align: center;
+  color: cyan;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+}
+h1{
+  font-size: 70px;
+}
+h2{
+  font-size: 30px;
+  color: Dodgerblue;
+}
+p{
+  font-size: 18px;
+}
+h3{
+  font-size: 22px;
+}
